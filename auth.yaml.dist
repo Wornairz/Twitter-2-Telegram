@@ -1,0 +1,4 @@
+oauth_app_key: YOUR_API_KEY
+oauth_app_secret: YOUR_API_SECRET
+oauth_token: YOUR_TOKEN
+oauth_token_secret: YOUR_TOKEN_SECRET
