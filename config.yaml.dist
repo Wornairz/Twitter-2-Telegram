@@ -1,0 +1,10 @@
+twitter:
+    auth:
+        app_key: YOUR_TWITTER_APP_KEY
+        app_secret: YOUR_TWITTER_APP_SECRET
+        token: YOUR_TWITTER_TOKEN
+        token_secret: YOUR_TWITTER_TOKEN_SECRET
+    name: TWITTER_ACCOUNT_TO_TRACK
+telegram:
+    token: YOUR_BOT_TOKEN
+    chat_id: YOUR_CHANNEL_ID
